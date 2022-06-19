@@ -2,7 +2,7 @@
 
 
 <a href="#">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Yeom-JinHo&show_icons=true&theme=vue&hide_border=true"  width=50%
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=lion1735&show_icons=true&theme=vue&hide_border=true"  width=50%
   height=auto />
   
 
