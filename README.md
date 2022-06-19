@@ -1,6 +1,6 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 
-
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 <a href="#">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=lion1735&show_icons=true&theme=vue&hide_border=true"  width=50%
   height=auto />
