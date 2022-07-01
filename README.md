@@ -3,12 +3,8 @@
 <a href="#">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=lion1735&show_icons=true&theme=vue&hide_border=true"  width=50%
   height=auto />
-  
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lion1735&layout=compact&hide_border=true)](https://github.com/lion1735)
-  
-  
   
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lion1735)](https://solved.ac/lion1735)
