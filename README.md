@@ -1,10 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=Soft&color=FAF4B7&text=Hyunseo🐱‍💻&fontSize=50&fontColor=353535)
+![header](https://capsule-render.vercel.app/api?type=Soft&color=FAF4B7&text=ChoiGang🐱‍💻&fontSize=50&fontColor=353535)
 
 <p align="center">
   <a href="https://selective-spectrum-c0a.notion.site/Who-Am-I-9f81af71c25545328e54db3b2e207c90">
     <img src="https://img.shields.io/badge/PortFolio-CDF0EA?style=flat-square&logo=GitHub Sponsors&logoColor=black">
   </a>
-  <a href="https://hyunse0.tistory.com/">
+  <a href="https://blog.naver.com/cg1735">
     <img src="https://img.shields.io/badge/Tech Blog-F6F5F5?style=flat-square&logo=Naver&logoColor=black">
   </a>
 </p>
