@@ -31,7 +31,7 @@
 | 2022.08 - 2022.10 |          Web          | [Enimal](https://github.com/lion1735/Enimal) (원격일잘러들을 위한 집중 서비스) |
 | 2022.07 - 2022.08 |          Web          | [Nahonsan](https://github.com/lion1735/NaHonSan) (자취 초년생을 위한 맞춤형 SNS 서비스) |
 | 2022.05 - 2022.05 |          Web          | [HappyDeathHouse](https://selective-spectrum-c0a.notion.site/HappyDeathHouse-37d43c74534c4a019c0cec39d289f373) (SSAFY 커뮤니티 With 부동산) |
-| 2021.09 - 2021.12 |          App          | [이미지 내 개인정보 탐지 앱](https://github.com/lion1735/Capstone2021) (이미지 내 위치정보 및 개인정보 텍스트 추출 앱) |
+| 2021.09 - 2021.12 |          App          | [이미지 내 개인정보 탐지 App](https://github.com/lion1735/Capstone2021) (이미지 내 위치정보 및 개인정보 텍스트 추출 앱) |
 | 2021.01 - 2021.03 |       Gnuboard        | [1인 쇼핑몰](https://blog.naver.com/cg1735/222231431914) (그누보드를 활용한 1인 쇼핑몰)                                   |
 
 
