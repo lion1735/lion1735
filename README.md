@@ -37,7 +37,7 @@
 
 <br />
 
-### ✨ Tech Stack
+### ✨ Tech Stack 
 
 
 <p>
