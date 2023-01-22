@@ -7,7 +7,7 @@
   <a href="https://blog.naver.com/cg1735">
     <img src="https://img.shields.io/badge/Tech Blog-F6F5F5?style=flat-square&logo=Naver&logoColor=black">
   </a>
-</p>
+</p> 
 <p align="center">
   Hi! I'm interested in backend develop, Dev Ops. <br />
   ___
