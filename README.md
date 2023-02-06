@@ -9,7 +9,7 @@
   </a>
 </p>  
 <p align="center">
-  Hi! I'm interested in backend develop, Dev Ops. <br />
+  Hi! I'm interested in backend develop, Dev Ops. <br /> 
   ___
 </p>
  
